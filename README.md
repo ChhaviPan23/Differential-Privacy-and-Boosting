@@ -9,7 +9,7 @@ https://privacytools.seas.harvard.edu/files/privacytools/files/05670947.pdf
 
 ## Environment
 
-Evaluation environment: Python 3.10.12, NumPy 1.25.2, SciPy 1.11.4, scikit-learn 1.2.2
+Evaluation environment: Python 3.10.12, NumPy 1.25.2, SciPy 1.11.4, scikit-learn 1.2.2, collection 0.1.6
 
 ## Results
 
@@ -26,3 +26,6 @@ We have used the california housing dataset but since there are limitations on d
 Although we have loaded the dataset from the scikit learn library but the link of the data is provided below
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
+
+## Platform to run 
+The code can simply be run on pc or google colab.
