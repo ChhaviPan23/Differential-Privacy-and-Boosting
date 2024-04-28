@@ -19,7 +19,7 @@ Evaluation environment: Python 3.10.12, NumPy 1.25.2, SciPy 1.11.4, scikit-learn
 
 Use the following code to evaluate the boosting algorithm and get results for different random queries.
 
-> python
+> python 22125011_Chhavi.py
 
 ## Dataset
 We have used the california housing dataset but since there are limitations on data size and queries as defined in paper, we are choosing only first 2000 enteries of the dataset.
