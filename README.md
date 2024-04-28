@@ -13,7 +13,7 @@ Evaluation environment: Python 3.10.12, NumPy 1.25.2, SciPy 1.11.4, scikit-learn
 
 ## Results
 
-The following image shows the result of the query by running the boosting algorithm for 20 times. The dots represent the result of query we got for running the algorithm 20 times and the  horizontal line is the true answer to the query.
+The following image shows the result of the randomly selected query by running the boosting algorithm for 20 times. The dots represent the result of query we got for running the algorithm 20 times and the  horizontal line is the true answer to the query.
 
 ![image](https://github.com/ChhaviPan23/Differential-Privacy-and-Boosting/assets/138955514/54600e2a-5a2f-4673-8fed-9633affd093b)
 
